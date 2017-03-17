@@ -24,3 +24,8 @@ sudo apt-get install -y curlftpfs
 sudo apt-get install -y automake autoconf libtool
 sudo apt-get install -y libglib2.0-0 libglib2.0-dev libfuse-dev libcurl4-gnutls-dev
 sudo apt-get install -y mono-devel
+sudo apt-get install -y python3 python3-pip python-pip
+sudo apt-get install -y python-gobject bluez bluez-tools bluez-firmware python-bluez python-dev python-pip
+sudo pip install evdev
+sudo apt-get install -y libboost-dev libboost-filesystem-dev libboost-system-dev  libboost-thread-dev libboost-log-dev
+
